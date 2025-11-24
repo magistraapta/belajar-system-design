@@ -1,0 +1,29 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+backend:
+  label: Backend
+  permalink: /backend
+  description: Backend tag description
+
+cloud computing:
+  label: Cloud Computing
+  permalink: /cloud-computing
+  description: Cloud Computing tag description
